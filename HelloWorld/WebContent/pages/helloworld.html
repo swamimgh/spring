@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>jQuery Hello World</title>
+
+<!-- <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script> -->
+<script type="text/javascript" data-main="../js/lib/require-config"
+	src="/lcpr/components/requirejs/require.js"></script>
+<script src="../js/lib/require-config.js"></script>
+<link href="/lcpr/css/iids.css" rel="stylesheet" type="text/css">
+  <link href="/lcpr/css/responsive.css" rel="stylesheet" type="text/css">
+  <link href="/lcpr/components/chosen/chosen.css" rel="stylesheet" type="text/css">
+  <link href="../css/rdm.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<script type="text/javascript">
+
+/* $(document).ready(function(){
+ 
+ $("#submit").click(function(){
+        alert($("#name").val());	
+			
+			});
+ }); */
+ require([ 'require-config' ], function() {
+		require([ 'helloworld' ], function($helloworld) {
+			$helloworld();
+		});
+	});
+</script>
+
+
+Employee name<input type="text" id="name">
+<button type="submit" id="submit">submit</button>
+<div id="msgid">
+
+</div>
+
+<select data-label="Technology" id="techslt" data-bind="technology">
+                                    <option>Select an option</option>
+                                  </select>
+                                  
+<select data-label="Sub-Technology" id="subtechslt" data-bind="subtechnology">
+                                    <option>Select an option2</option>
+                                  </select>
+
+
+ <div  id="allprojectIddiv">
+
+ </div>
+<div id="project_cd" class="modal lg fade in" aria-hidden="false" style="display: none;">
+    <div class="modal-header">
+      <button type="button" class="close" data-dismiss="modal">X</button>
+      <h3>Project Details</h3>
+      </div>
+    <div class="modal-body s_result1" id="RowDetailedViewDiv" style="min-height:335px">
+    </div>
+    
+  </div>
+</body>
+</html>

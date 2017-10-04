@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_25">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.preview.runtimeTarget/J2EE Preview">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/aop-alliance.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/aspectj-weaver.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/aspectjrt-1.6.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/axiom-api-1.2.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/axiom-dom-1.2.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/axiom-impl-1.2.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/axis2-adb-1.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/axis2-kernel-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/axis2-transport-http-1.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/axis2-transport-local-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/axis2-xmlbeans-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-anim.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-awt-util.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-bridge.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-codec.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-css.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-dom.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-ext.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-extension.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-gui-util.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-gvt.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-parser.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-rasterizer.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-script.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-squiggle.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-svg-dom.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-svggen.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-svgpp.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-transcoder.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-util.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik-xml.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/batik.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/commons-codec-1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/commons-digester.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/commons-io-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/commons-lang-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/commons-net-3.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/commons-validator-1.5.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/commons-vfs2-2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/debugger-app-2.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/ehcache-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/ehcache-core-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/ehcache-web-2.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/fontbox-2.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/gson-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/highchart.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/httpcore-4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/jackson-all-1.9.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/jboss-common-jdbc-wrapper.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/jbossweb-service.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/jcifs-1.3.18.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/jcommon-1.0.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/jsch-0.1.53.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/json.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/jtds-1.2.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/neethi-2.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/ooxml-schemas-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/org.springframework.aop-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/org.springframework.asm-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/org.springframework.aspects-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/org.springframework.beans-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/org.springframework.context-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/org.springframework.context.support-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/org.springframework.core-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/org.springframework.expression-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/org.springframework.instrument-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/org.springframework.instrument.tomcat-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/org.springframework.jdbc-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/org.springframework.orm-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/org.springframework.oxm-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/org.springframework.transaction-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/org.springframework.web-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/org.springframework.web.servlet-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/pdfbox-2.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/pdfbox-app-2.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/pdfbox-debugger-2.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/pdfbox-tools-2.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/PLPDPPTRSN_INT_UPD_J.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/poi-3.8-20120326.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/poi-ooxml-3.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/poi-ooxml-schemas-3.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/preflight-2.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/preflight-app-2.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/quartz-1.8.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/rhino-1.7R2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/sax.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/slf4j-api-1.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/wsdl4j-1.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/xercesImpl-2.9.1.redhat-5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/xml-apis-ext.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/XmlSchema-1.4.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/lib/xmpbox-2.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/tmp_ref_lib/ironjacamar-jdbc-1.0.23.Final-redhat-1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/tmp_ref_lib/jboss-jaxrs-api_1.1_spec-1.0.1.Final-redhat-2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/tmp_ref_lib/jboss-servlet-api_3.0_spec-1.0.2.Final-redhat-1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/tmp_ref_lib/jtds-1.2.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/tmp_ref_lib/log4j.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/tmp_ref_lib/ojdbc6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/tmp_ref_lib/resteasy-jaxrs-2.3.7.Final-redhat-2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/tmp_ref_lib/resteasy-multipart-provider-2.3.7.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="/lcpr_portal/tmp_ref_lib/xercesImpl-2.9.1.redhat-5.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

@@ -1,0 +1,21 @@
+<jboss-deployment-structure xmlns="urn:jboss:deployment-structure:1.0">
+  <deployment>
+      <dependencies>
+       <module name="org.jboss.ironjacamar.jdbcadapters" slot="main"/>
+   	   <module name="oracle.jdbc" slot="main"/>
+       <module name="org.apache.santuario.xmlsec" slot="main"/>
+       <module name="org.dom4j" slot="main"/>
+   	  <!-- <module name="wrap.jboss.conn" slot="main"/>-->
+      </dependencies>
+  </deployment>
+ <!--  <sub-deployment name="jboss-seam-booking.war">
+    <exclusions>
+        <module name="javax.faces.api" slot="main"/>
+              <module name="com.sun.jsf-impl" slot="main"/>
+      </exclusions>
+      <dependencies>
+        <module name="javax.faces.api" slot="1.2"/>
+              <module name="com.sun.jsf-impl" slot="1.2"/>
+      </dependencies>
+  </sub-deployment> -->
+</jboss-deployment-structure>
